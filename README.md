@@ -15,11 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img src="https://www.svgrepo.com/show/374151/prisma.svg" height="40" alt="Prisma" />
+  <img src="https://raw.githubusercontent.com/prisma/docs/main/docs/static/img/prisma-logo.svg" height="40" alt="Prisma ORM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://www.svgrepo.com/show/353735/firebase.svg" height="40" alt="Firebase" />
+  <img src="https://www.svgrepo.com/show/373589/firebase.svg" height="40" alt="Firebase" />
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
@@ -33,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" alt="Bash" />
-  <img src="https://seeklogo.com/images/C/cursor-logo-6899B1E5F2-seeklogo.com.png" height="40" alt="Cursor AI" />
+  <img src="https://avatars.githubusercontent.com/u/137471415?s=200&v=4" height="40" alt="Cursor AI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" height="40" alt="Unreal Engine" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Unreal_Engine_Logo.svg" height="40" alt="Unreal Engine" />
   <img src="https://cdn-icons-png.flaticon.com/512/10761/10761663.png" height="40" alt="AI Tools" />
 </div>
 
