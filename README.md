@@ -65,13 +65,17 @@ Game Dev is a sandbox I’m still exploring, one voxel at a time 🕹️`
 
 ### 🛰️ Catch Me On:
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/venu-prasad-551b09340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/itsvenu15?t=pCTiprkVVjiUi6Q63AXrlw&s=09" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter/X" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hashnode.com/@vinsmokejazz" target="_blank">
+    <img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" height="40" />
   </a>
 </p>
 
----
