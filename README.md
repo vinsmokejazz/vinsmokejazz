@@ -51,7 +51,7 @@ const venu = {
     "breaking things — then understanding them 💥",
     "one voxel at a time in the game-dev sandbox 🕹️",
   ],
-  blog      : "https://hashnode.com/@vinsmokejazz",
+  blog      : "https://hashnode.com/@samurai-v",
   mantra    : "// wake up. build. break. repeat.",
 };
 ```
@@ -108,7 +108,7 @@ const venu = {
 ```
 [INFO]  ✦ Penning thoughts at the intersection of code and chain
 [INFO]  ✦ Smart contracts, decentralized workflows, on-chain experiments
-[LINK]  ──▶  https://hashnode.com/@vinsmokejazz  (@vinsmokejazz)
+[LINK]  ──▶  https://hashnode.com/@samurai-v  (@samurai-v)
 [WARN]  ⚠  Side effects may include: existential questions about consensus
 ```
 
@@ -151,8 +151,8 @@ const venu = {
 | Channel | Handle | Status |
 |---|---|---|
 | 🔗 LinkedIn | [venu-prasad](https://www.linkedin.com/in/venu-prasad-551b09340) | `◉ ONLINE` |
-| 𝕏 Twitter | [@itsvenu15](https://x.com/itsvenu15) | `◉ ONLINE` |
-| 📓 Hashnode | [@vinsmokejazz](https://hashnode.com/@vinsmokejazz) | `◉ WRITING` |
+| 𝕏 Twitter | [@venu_15x](https://x.com/venu_15x) | `◉ ONLINE` |
+| 📓 Hashnode | [@samurai-v](https://hashnode.com/@samurai-v) | `◉ WRITING` |
 
 </div>
 
