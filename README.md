@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace;">Hey, I'm Venu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F8F8F8&background=1A1B27FF&width=435&lines=crafting+3D+worlds;breaking+things+to+learn...;" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/0d82a341-d2e4-40df-bd03-664b132b6e2b" width="500"/>
 </p>
 
 ---
