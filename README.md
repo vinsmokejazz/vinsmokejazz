@@ -1,82 +1,146 @@
-<h1 align="center" style="font-family: 'Fira Code', monospace;">Hey, I'm Venu 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d82a341-d2e4-40df-bd03-664b132b6e2b" width="500"/>
-</p>
+<img src="https://github.com/user-attachments/assets/0d82a341-d2e4-40df-bd03-664b132b6e2b" width="380"/>
+
+<br/>
+
+# Venu Prasad
+
+**Full-stack builder &nbsp;·&nbsp; AI systems engineer &nbsp;·&nbsp;  Web3 tinkerer &nbsp;·&nbsp; 3D chaotician**
+
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venu-prasad-551b09340)&nbsp;
+[![Twitter](https://img.shields.io/badge/@itsvenu15-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsvenu15)&nbsp;
+[![Hashnode](https://img.shields.io/badge/@samurai--v-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@samurai-v)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=vinsmokeJazz&color=6c63ff&style=flat-square&label=profile+views)
+
+</div>
+
+<br/>
 
 ---
 
-### `~/venu $ ls -la ./spellbook/`
+I build **full-stack applications**, **AI systems**, and **web3 experiments**. My interests sit somewhere between **LLM agents**, **distributed systems**, **developer tooling**, **on-chain infrastructure**, and **real-time product experiences**. When I'm not shipping software, I'm usually breaking Blender scenes, exploring Unreal Engine workflows and an unhealthy number of open tabs.
+
+---
+
+### ⚒️ Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Frontend & Product
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square)
+
+### Backend & Systems
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EF4444?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</td>
+<td valign="top" width="50%">
+
+### AI & LLM Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B6B?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Vector_Embeddings-00C853?style=flat-square)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+
+</td>
+
+<td valign="top">
+
+### Creative
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+</td>
+
+<td valign="top">
+
+### Tooling
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
+</table>
+```
+
+
+### 📊 Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" height="40" alt="Prisma ORM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-   <img src="https://www.svgrepo.com/show/353735/firebase.svg" height="40" alt="Firebase" />
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="40" alt="Supabase" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
- <img src="https://www.svgrepo.com/show/374088/solidity.svg" height="40" alt="Solidity Logo" />
-  <img src="https://img.icons8.com/?size=512&id=DiGZkjCzyZXn&format=png" height="40" alt="Cursor AI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40" alt="Blender" />
-<img src="https://www.citypng.com/public/uploads/preview/hd-unreal-engine-white-logo-icon-png-7017516949697958pnkct2kiz.png" height="45" alt="Unreal Engine Logo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinsmokeJazz&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsmokeJazz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vinsmokeJazz&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
 
-### `~/venu $ cat ./logs/web3_writings.log`
-
-📓 I pen bytes of thought and code on  
-[**@samurai-v on Hashnode**](https://hashnode.com/@samurai-v) — writing about smart contracts, decentralized workflows, and on-chain experiments.
-
----
-
-### `~/venu $ neofetch --game-3D-Vfx`
-
-> `Crafting interactive 3D worlds, rigging chaos in Blender, and decoding the secrets of game engines —  
-Game Dev is a sandbox I’m still exploring, one voxel at a time 🕹️`  
-
----
-
-### `~/venu $ ./stats --show`
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinsmokeJazz&show_icons=true&theme=tokyonight&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsmokeJazz&layout=compact&theme=tokyonight" height="165" />
+  <sub>Not looking. Just building. But interesting ideas find their way through <a href="https://x.com/itsvenu15">@itsvenu15</a></sub>
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vinsmokeJazz&theme=matrix&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165" />
-</div>
-
----
-
-### `~/venu $ ssh connect@socials`
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/venu-prasad-551b09340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/itsvenu15?t=pCTiprkVVjiUi6Q63AXrlw&s=09" target="_blank">
-    <img alt="Twitter/X" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hashnode.com/@samurai-v" target="_blank">
-    <img alt="Hashnode" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" height="40" />
-  </a>
-</p>
