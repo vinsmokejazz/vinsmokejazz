@@ -6,7 +6,7 @@
 
 # Venu Prasad
 
-**Full-stack builder &nbsp;·&nbsp; AI systems engineer &nbsp;·&nbsp;  Web3 tinkerer &nbsp;·&nbsp; 3D chaotician**
+**Full-stack builder &nbsp;·&nbsp; AI systems &nbsp;·&nbsp;  Web3 tinkerer &nbsp;·&nbsp; 3D chaotician**
 
 
 <br/>
