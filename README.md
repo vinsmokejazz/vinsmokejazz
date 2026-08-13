@@ -30,7 +30,9 @@ $ currently building
 
 <br/>
 
+<div align="center">
 stats ain't gonna define me! still pasting it for my OCD.
+</div>
 
 <br/>
 
