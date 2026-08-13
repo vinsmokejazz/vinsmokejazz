@@ -30,7 +30,7 @@ $ currently building
 
 <br/>
 
-Small PRs. Tests around the stuff that's easy to get subtly wrong. If a decision isn't obvious, I write down why — future me forgets fast.
+stats ain't gonna define me! still pasting it for my OCD.
 
 <br/>
 
